@@ -52,4 +52,4 @@
 
 - Building for the next hackathon and whatever hard problem comes with it
 - Exploring new chains, new AI tooling, new primitives
-- Always up for a collab. Open an issue on any repo and I will reply
+- Always up for a collab. Ping me on [X](https://x.com/Bunnyyxtan) or [Telegram](https://t.me/notyour_bunnyy), or open an issue on any repo
