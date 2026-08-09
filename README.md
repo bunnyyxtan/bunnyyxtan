@@ -32,8 +32,8 @@
 | [**ARCANUM**](https://github.com/bunnyyxtan/ARCANUM) | Non-custodial, policy-governed USDC wallets for AI agents on Arc | Contract-enforced spend policies, human escalation quorum, anomaly defense &middot; [live app](https://thearcanum.in) |
 | [**HAETAE**](https://github.com/bunnyyxtan/HAETAE) | On-chain licenses + enforcement for AI trading agents on GIWA | Draft ERC (`IAgentLicense`), 8 verified contracts, 102 tests, Slither-audited &middot; [live app](https://haetae.xyz) |
 | [**THE-VAJRA**](https://github.com/bunnyyxtan/THE-VAJRA) | Recipient-authenticated payment protocol on **Monad mainnet** | EIP-712 + on-chain WebAuthn passkeys, atomic settlement, zero custody, Sourcify-verified |
-| [**Agent-BlackBox**](https://github.com/bunnyyxtan/Agent-BlackBox) | The flight recorder for autonomous AI agents | Hash-verified proof bundles stored on **Walrus**, anchored on **Sui mainnet** |
-| [**DAWN Sunrays Tracker**](https://github.com/bunnyyxtan/Dawn-Sunrays-Checker) | Community points leaderboard for the DAWN network | Adopted by the official DAWN project as the community's sunray checker |
+| [**Agent-BlackBox**](https://github.com/bunnyyxtan/Agent-BlackBox) | The flight recorder for autonomous AI agents | Hash-verified proof bundles stored on **Walrus**, anchored on **Sui mainnet** &middot; [live app](https://agent-blackbox.vercel.app) |
+| [**DAWN Sunrays Tracker**](https://github.com/bunnyyxtan/Dawn-Sunrays-Checker) | Community points leaderboard for the DAWN network | Adopted by the official DAWN project as the community's sunray checker &middot; [live app](https://dawnrank.xyz) |
 
 <sub>Also built: <a href="https://github.com/bunnyyxtan/Civic-Proof-v1">CivicProof</a>, an accountability engine that turns scattered civic complaints into harm-scored, structured case files.</sub>
 
