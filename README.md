@@ -11,10 +11,6 @@
   <a href="https://thearcanum.in">ARCANUM live</a>
   &middot;
   <a href="https://haetae.xyz">HAETAE live</a>
-  &middot;
-  <a href="https://x.com/Bunnyyxtan">X</a>
-  &middot;
-  <a href="https://t.me/notyour_bunnyy">Telegram</a>
 </p>
 
 ---
