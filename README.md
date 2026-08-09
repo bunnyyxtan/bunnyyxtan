@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Bunnyy</h1>
 
 <p align="center">
-  <b>I build the trust layer for AI agents that touch real money.</b><br/>
-  Governed wallets &middot; on-chain licenses &middot; verifiable audit trails &mdash; designed, shipped, and verified on real chains.
+  <b>Student. Builder. I take ideas from zero to deployed.</b><br/>
+  Protocols, full-stack apps, community tools. Most of them born at hackathons, all of them finished properly.
 </p>
 
 <p align="center">
@@ -17,20 +17,21 @@
 
 ### About
 
-- Student and hackathon builder &mdash; most of what you see here started as a weekend sprint and ended as a deployed, documented product.
-- One obsession: **autonomous AI agents are starting to move money, and almost nothing holds them accountable.** Each flagship project below attacks a different piece of that problem.
-- New chain, new primitive, new challenge &mdash; that's the fun part. I build to ship, not to demo.
+- I build for hackathons, I build to contribute, and I build because new challenges are the fun part.
+- I like shipping the whole thing: contracts, backend, frontend, docs, deploy.
+- Simple rule: if it is not deployed, documented, and working in someone's hands, it is not done.
 
 ### Flagship work
 
-| Project | What it is | Why it's interesting |
+| Project | What it is | Why it stands out |
 |---|---|---|
 | [**ARCANUM**](https://github.com/bunnyyxtan/ARCANUM) | Non-custodial, policy-governed USDC wallets for AI agents on Arc | Contract-enforced spend policies, human escalation quorum, anomaly defense &middot; [live app](https://thearcanum.in) |
 | [**HAETAE**](https://github.com/bunnyyxtan/HAETAE) | On-chain licenses + enforcement for AI trading agents on GIWA | Draft ERC (`IAgentLicense`), 8 verified contracts, 102 tests, Slither-audited &middot; [live app](https://haetae.xyz) |
 | [**THE-VAJRA**](https://github.com/bunnyyxtan/THE-VAJRA) | Recipient-authenticated payment protocol on **Monad mainnet** | EIP-712 + on-chain WebAuthn passkeys, atomic settlement, zero custody, Sourcify-verified |
 | [**Agent-BlackBox**](https://github.com/bunnyyxtan/Agent-BlackBox) | The flight recorder for autonomous AI agents | Hash-verified proof bundles stored on **Walrus**, anchored on **Sui mainnet** |
+| [**DAWN Sunrays Tracker**](https://github.com/bunnyyxtan/Dawn-Sunrays-Checker) | Community points leaderboard for the DAWN network | Adopted by the official DAWN project as the community's sunray checker |
 
-<sub>Also built: <a href="https://github.com/bunnyyxtan/Civic-Proof-v1">CivicProof</a> &mdash; turns scattered civic complaints into harm-scored, legally structured accountability cases &middot; <a href="https://github.com/bunnyyxtan/Dawn-Sunrays-Checker">DAWN Sunrays Tracker</a> &mdash; community leaderboard for the DAWN DePIN network.</sub>
+<sub>Also built: <a href="https://github.com/bunnyyxtan/Civic-Proof-v1">CivicProof</a>, an accountability engine that turns scattered civic complaints into harm-scored, structured case files.</sub>
 
 ### Stack
 
@@ -49,6 +50,6 @@
 
 ### Right now
 
-- Deepening the agent-accountability stack: wallets &rarr; licenses &rarr; flight recorders
-- Hunting the next hackathon and the next "that's not buildable in a weekend" idea
-- Open to collaborations &mdash; if you're building where AI agents meet real value, open an issue on any repo and I'll answer
+- Building for the next hackathon and whatever hard problem comes with it
+- Exploring new chains, new AI tooling, new primitives
+- Always up for a collab. Open an issue on any repo and I will reply
