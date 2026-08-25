@@ -18,8 +18,6 @@ Policy-governed smart wallets for AI agents with contract-enforced controls and 
 
 [Live system](https://thearcanum.in)
 
-<sub>Testnet software, currently unaudited</sub>
-
 </td>
 <td width="50%" valign="top">
 
