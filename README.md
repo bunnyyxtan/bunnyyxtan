@@ -6,7 +6,8 @@
 
 <br>
 
-I take difficult systems from protocol design to a working product
+**I take difficult systems from protocol design to a working product**
+
 Contracts, backends, interfaces, deployment, documentation, and evidence belong to the same job
 
 My work sits where software has to handle money, identity, agents, or verifiable decisions without hand-waving the failure modes
