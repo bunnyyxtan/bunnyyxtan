@@ -93,9 +93,3 @@ One command from no identity to a locally generated did:key and an offline-verif
 ### Stack
 
 `TypeScript` `JavaScript` `React` `Next.js` `Vite` `Node.js` `Express` `Solidity` `Foundry` `Python` `PostgreSQL`
-
-### Contact
-
-**X** / [Bunnyyxtan](https://x.com/Bunnyyxtan)
-**Telegram** / [notyour_bunnyy](https://t.me/notyour_bunnyy)
-**GitHub** / [bunnyyxtan](https://github.com/bunnyyxtan)
