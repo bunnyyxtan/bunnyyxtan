@@ -92,4 +92,13 @@ One command from no identity to a locally generated did:key and an offline-verif
 
 ### Stack
 
-`TypeScript` `JavaScript` `React` `Next.js` `Vite` `Node.js` `Express` `Solidity` `Foundry` `Python` `PostgreSQL`
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React%20%2F%20Expo-61dafb?logo=react&logoColor=black" alt="React / Expo" />
+  <img src="https://img.shields.io/badge/Foundry-f0b90b" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3fcf8e?logo=supabase&logoColor=white" alt="Supabase" />
+</p>
