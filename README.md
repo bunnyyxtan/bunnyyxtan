@@ -52,6 +52,8 @@ Recipient-authenticated payments using EIP-712 and onchain WebAuthn passkeys for
 
 Zero custody, no backend
 
+[Live app](https://thevajra.xyz)
+
 </td>
 <td width="50%" valign="top">
 
