@@ -1,18 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header.svg">
-  <img src="assets/profile-header.svg" alt="Bunnyy, independent product builder" width="100%">
-</picture>
+# Bunnyy
 
-<br>
+**Independent builder turning ambitious ideas into complete, working products**
 
-**I take difficult systems from protocol design to a working product**
+I work from the problem outward, taking responsibility for the product decisions, engineering, design, deployment, and details required to make the result hold together
 
-Contracts, backends, interfaces, deployment, documentation, and evidence belong to the same job
-
-My work sits where software has to handle money, identity, agents, or verifiable decisions without hand-waving the failure modes
-
-### Selected systems
+### Selected work
 
 <table>
 <tr>
@@ -93,12 +85,12 @@ One command from no identity to a locally generated did:key and an offline-verif
 </tr>
 </table>
 
-### Build discipline
+### How I build
 
-- Own the full path from system model and contracts to the interface people actually use
-- Treat verification, failure modes, and operational evidence as product features
-- Keep trust-critical surfaces small, explicit, and auditable
-- Ship public proof with the claim whenever the system allows it
+- Start with the problem, not a preferred stack
+- Own the path from early concept to working release
+- Build deeply where the product requires it and simplify everywhere else
+- Treat reliability, documentation, and polish as part of the product
 
 ### Fully open-source tools
 
