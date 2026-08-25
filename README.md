@@ -1,55 +1,112 @@
-<h1 align="center">Hey, I'm Bunnyy</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-header.svg">
+  <img src="assets/profile-header.svg" alt="Bunnyy, independent product builder" width="100%">
+</picture>
 
-<p align="center">
-  <b>Student. Builder. I take ideas from zero to deployed.</b><br/>
-  Protocols, full-stack apps, community tools. Most of them born at hackathons, all of them finished properly.
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/bunnyyxtan?tab=repositories">All repositories</a>
-  &middot;
-  <a href="https://thearcanum.in">ARCANUM live</a>
-  &middot;
-  <a href="https://haetae.xyz">HAETAE live</a>
-</p>
+I take difficult systems from protocol design to a working product
+Contracts, backends, interfaces, deployment, documentation, and evidence belong to the same job
 
----
+My work sits where software has to handle money, identity, agents, or verifiable decisions without hand-waving the failure modes
 
-### About
+### Selected systems
 
-- I build for hackathons, I build to contribute, and I build because new challenges are the fun part.
-- I like shipping the whole thing: contracts, backend, frontend, docs, deploy.
-- Simple rule: if it is not deployed, documented, and working in someone's hands, it is not done.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Flagship work
+#### [ARCANUM](https://github.com/bunnyyxtan/ARCANUM)
 
-| Project | What it is | Why it stands out |
-|---|---|---|
-| [**ARCANUM**](https://github.com/bunnyyxtan/ARCANUM) | Non-custodial, policy-governed USDC wallets for AI agents on Arc | Contract-enforced spend policies, human escalation quorum, anomaly defense &middot; [live app](https://thearcanum.in) |
-| [**HAETAE**](https://github.com/bunnyyxtan/HAETAE) | On-chain licenses + enforcement for AI trading agents on GIWA | Draft ERC (`IAgentLicense`), 8 verified contracts, 102 tests, Slither-audited &middot; [live app](https://haetae.xyz) |
-| [**THE-VAJRA**](https://github.com/bunnyyxtan/THE-VAJRA) | Recipient-authenticated payment protocol on **Monad mainnet** | EIP-712 + on-chain WebAuthn passkeys, atomic settlement, zero custody, Sourcify-verified |
-| [**Agent-BlackBox**](https://github.com/bunnyyxtan/Agent-BlackBox) | The flight recorder for autonomous AI agents | Hash-verified proof bundles stored on **Walrus**, anchored on **Sui mainnet** &middot; [live app](https://agent-blackbox.vercel.app) |
-| [**DAWN Sunrays Tracker**](https://github.com/bunnyyxtan/Dawn-Sunrays-Checker) | Community points leaderboard for the DAWN network | Adopted by the official DAWN project as the community's sunray checker &middot; [live app](https://dawnrank.xyz) |
+Policy-governed smart wallets for AI agents with contract-enforced controls and public operator surfaces
 
-<sub>Also built: <a href="https://github.com/bunnyyxtan/Civic-Proof-v1">CivicProof</a>, an accountability engine that turns scattered civic complaints into harm-scored, structured case files.</sub>
+`Arc Testnet` `Solidity` `TypeScript`
 
-### Stack
+[Live system](https://thearcanum.in)
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React%20%2F%20Expo-61dafb?logo=react&logoColor=black" alt="React / Expo" />
-  <img src="https://img.shields.io/badge/Foundry-f0b90b" alt="Foundry" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Supabase-3fcf8e?logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+<sub>Testnet software, currently unaudited</sub>
 
-**Shipped on:** Arc &middot; GIWA (OP Stack) &middot; Monad mainnet &middot; Sui mainnet &middot; Walrus
+</td>
+<td width="50%" valign="top">
 
-### Right now
+#### [MIDNAT](https://github.com/bunnyyxtan/MIDNAT)
 
-- Building for the next hackathon and whatever hard problem comes with it
-- Exploring new chains, new AI tooling, new primitives
-- Always up for a collab. Ping me on [X](https://x.com/Bunnyyxtan) or [Telegram](https://t.me/notyour_bunnyy), or open an issue on any repo
+24/7 synthetic-equity perpetuals with deterministic risk controls and transparent onchain clearing
+
+`X Layer Testnet` `Foundry` `Solidity`
+
+[Website](https://midnat.xyz) · [Trading terminal](https://app.midnat.xyz)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [THE-VAJRA](https://github.com/bunnyyxtan/THE-VAJRA)
+
+Recipient-authenticated payments using EIP-712 and onchain WebAuthn passkeys for atomic settlement
+
+`Monad Mainnet` `Sourcify verified` `98 tests`
+
+Zero custody, no backend
+
+</td>
+<td width="50%" valign="top">
+
+#### [FairMate](https://github.com/bunnyyxtan/fairmate)
+
+Human vs AI chess with TeeTLS-verified inference and a real-stakes challenge pot
+
+`0G Aristotle Mainnet` `0G Router` `TypeScript`
+
+[Play FairMate](https://fairmate-cyan.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [DAWN Sunrays Checker](https://github.com/bunnyyxtan/Dawn-Sunrays-Checker)
+
+Zero-dependency public leaderboard adopted by the DAWN team as its official checker
+
+`Static web app` `Zero dependencies`
+
+[Open the checker](https://dawnrank.xyz)
+
+</td>
+<td width="50%" valign="top">
+
+#### [technocore-onboard](https://github.com/bunnyyxtan/technocore-onboard)
+
+One command from no identity to a locally generated did:key and an offline-verifiable signed receipt
+
+`MIT` `Ed25519` `Zero dependencies`
+
+[Open technocore.chat](https://technocore.chat)
+
+</td>
+</tr>
+</table>
+
+### Build discipline
+
+- Own the full path from system model and contracts to the interface people actually use
+- Treat verification, failure modes, and operational evidence as product features
+- Keep trust-critical surfaces small, explicit, and auditable
+- Ship public proof with the claim whenever the system allows it
+
+### Fully open-source tools
+
+The Technocore toolchain stays MIT licensed and zero dependency
+
+[onboard](https://github.com/bunnyyxtan/technocore-onboard) ·
+[verify](https://github.com/bunnyyxtan/technocore-verify) ·
+[archive](https://github.com/bunnyyxtan/technocore-archive)
+
+### Contact
+
+**X** / [Bunnyyxtan](https://x.com/Bunnyyxtan)
+**Telegram** / [notyour_bunnyy](https://t.me/notyour_bunnyy)
+**GitHub** / [bunnyyxtan](https://github.com/bunnyyxtan)
