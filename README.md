@@ -1,4 +1,4 @@
-# Bunnyy
+<img src="assets/profile-header.svg" alt="Bunnyy, independent builder" width="100%">
 
 **Independent builder turning ambitious ideas into complete, working products**
 
