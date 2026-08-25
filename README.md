@@ -90,13 +90,9 @@ One command from no identity to a locally generated did:key and an offline-verif
 - Build deeply where the product requires it and simplify everywhere else
 - Treat reliability, documentation, and polish as part of the product
 
-### Fully open-source tools
+### Stack
 
-The Technocore toolchain stays MIT licensed and zero dependency
-
-[onboard](https://github.com/bunnyyxtan/technocore-onboard) ·
-[verify](https://github.com/bunnyyxtan/technocore-verify) ·
-[archive](https://github.com/bunnyyxtan/technocore-archive)
+`TypeScript` `JavaScript` `React` `Next.js` `Vite` `Node.js` `Express` `Solidity` `Foundry` `Python` `PostgreSQL`
 
 ### Contact
 
