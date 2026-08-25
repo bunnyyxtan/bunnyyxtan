@@ -102,7 +102,3 @@ One command from no identity to a locally generated did:key and an offline-verif
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Supabase-3fcf8e?logo=supabase&logoColor=white" alt="Supabase" />
 </p>
-
-<br>
-
-<img src="assets/activity.svg" alt="GitHub activity snapshot for the last 12 months" width="100%">
