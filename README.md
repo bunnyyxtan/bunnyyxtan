@@ -1,5 +1,3 @@
-<img src="assets/profile-header.svg" alt="Bunnyy, independent builder" width="100%">
-
 **Independent builder turning ambitious ideas into complete, working products**
 
 I work from the problem outward, taking responsibility for the product decisions, engineering, design, deployment, and details required to make the result hold together
